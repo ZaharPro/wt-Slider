@@ -1,6 +1,6 @@
 const content = [
    'https://evmhistory.ru/images/programming/javascript_1.jpg',
-   'https://lh3.googleusercontent.com/proxy/uLNS_rm3UdNU2yRmFZoeZlGIvM04mFJNzRMlyNBKdPgqS8xxtTFCL02ROJMBJwpPBxyRx7F12aUhe_PaAMtemWECVXE',
+   'https://images.unsplash.com/photo-1516116216624-53e697fedbea?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80',
    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBU0_iqifNKJzAbIMhPEQ2LY0zRo1PeWYNxQ&usqp=CAU',
 ];
 
